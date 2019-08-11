@@ -3,7 +3,7 @@
 
 #### A Portfolio Landing page is used to showcase the projects of a developer.
 
-#### This portfolio landing page has been developed by: **Dickson Kariuki Riungu**
+#### This portfolio landing page has been developed by: **Dickson Kariuki Riungu.**
 
 ## Description
 
@@ -20,4 +20,4 @@ I used **HTML,CSS, and materialize.css** to design the portfolio Landing page.
 
 ### License
 
-Copyright (c) 2019 All rights Reserved Dickson Kariuki
+Copyright (c) 2019 All rights Reserved Dickson Kariuki.
