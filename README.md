@@ -16,7 +16,7 @@ My Portfolio Landing Page will help other people to have access to my previous p
 
 ## Technologies Used
 
-I used HTML,CSS, and materialize.css to design the portfolio Landing page.
+I used **HTML,CSS, and materialize.css** to design the portfolio Landing page.
 
 ### License
 
