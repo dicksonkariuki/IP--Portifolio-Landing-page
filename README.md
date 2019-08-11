@@ -20,4 +20,4 @@ I used HTML,CSS, and materialize.css to design the portfolio Landing page.
 
 ### License
 
-Copyright (c) {2019} All rights Reserved**Dickson Kariuki**
+Copyright (c) {2019} **All rights Reserved Dickson Kariuki**
