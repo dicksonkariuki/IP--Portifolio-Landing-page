@@ -27,11 +27,6 @@ h1 {
   font-size: 30px;
   font-weight: bolder;
 }
-.box {
-  margin-left: 300px;
-  width: 450px;
-  height: 300px;
-}
 .boxes {
   display: flex;
   width: 1200px;
