@@ -1,0 +1,90 @@
+.photo {
+  margin: 0 auto;
+  display: block;
+  margin-top: 5px;
+  border-radius: 100%;
+}
+
+.nav-wrapper {
+  text-transform: uppercase;
+}
+nav {
+  background-color: blue;
+}
+nav ul li {
+  text-align: right;
+  padding-right: 50px;
+  margin-left: 600px;
+}
+.caption {
+  margin-left: 600px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+  font-weight: bolder;
+}
+h1 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 30px;
+  font-weight: bolder;
+}
+.box {
+  margin-left: 300px;
+  width: 450px;
+  height: 300px;
+}
+.boxes {
+  display: flex;
+  width: 1200px;
+  padding-bottom: 8px;
+}
+.first-box {
+  border: 3px red;
+  width: 450px;
+  height: 200px;
+  padding-bottom: 5px;
+  padding-right: 10px;
+}
+.second-box {
+  border: 3px red;
+  width: 450px;
+  height: 200px;
+  padding-bottom: 5px;
+  padding-right: 10px;
+}
+.third-box {
+  border: 3px red;
+  width: 450px;
+  height: 200px;
+  padding-bottom: 5px;
+  padding-right: 10px;
+}
+.fourth-box {
+  border: 3px red;
+  width: 500px;
+  height: 200px;
+  padding-bottom: 5px;
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+.first-box:hover {
+  background-color: aquamarine;
+}
+.second-box:hover {
+  background-color: aquamarine;
+}
+.third-box:hover {
+  background-color: aquamarine;
+}
+.fourth-box:hover {
+  background-color: aquamarine;
+}
+h2 {
+  text-align: left;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 30px;
+  font-weight: bolder;
+  margin-left: 20px;
+}
+.page-footer {
+  background-color: blue;
+}
